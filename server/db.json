@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 1,
+      "name": "some produc",
+      "count": 2,
+      "size": {
+        "width": 150,
+        "height": 200
+      },
+      "weight": "300g"
+    }
+  ]
+}
